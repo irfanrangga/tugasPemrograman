@@ -14,7 +14,7 @@ func cetak(n,m int){
 
 func main(){
 	var a,b int
-	fmt.Print("Masukan 2 bilangan:")
+	fmt.Print("Coba masukan 2 bilangan:")
 	fmt.Scan(&a, &b)
 	cetak(a, b)
 }
